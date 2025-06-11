@@ -35,7 +35,7 @@ This project is a technical test for Backend Developer candidates. It simulates 
 ### 2. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/microservices-order-system.git
+git clone https://github.com/mohammaddandyputra/order-inventory-management-system.git
 cd microservices-order-system
 docker-compose up --build -d
 docker cp init.sql postgres:/tmp/init.sql
